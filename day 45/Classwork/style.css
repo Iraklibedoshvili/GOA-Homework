@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    flex-wrap: inherit;
+    justify-content: right;
+    border: 26px solid red;
+    height: 54px;
+}
+.box{
+    display: inline-flex;
+    flex-direction: inherit;
+    align-items: normal;
+    flex-wrap: unset;
+    justify-content: flex-start;
+}

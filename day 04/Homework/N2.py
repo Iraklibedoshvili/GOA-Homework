@@ -1,0 +1,5 @@
+print(14+235)
+print(213-2321)
+print(456+675)
+print(254*6)
+print(78/6)

@@ -1,0 +1,27 @@
+.Parent{
+    color: green;
+    display: flex;
+    background-color:brown;
+    width: 500px;
+    height: 250px;
+    border: 20;
+    justify-content: center;
+    border-radius: 50%;
+}
+.Child{
+    color:red;
+    width: 50px;
+    height: 60px;
+    background-color: black;
+    border-radius: 50%;
+    transition:transform 2s
+}
+.Parent:hover .Child{
+    border-radius: 50%;
+    transform: 
+    scale(1.2) 
+    translate(30px,-30px)
+    rotate(30deg)
+    skew(20def,10deg);
+    background-color: aqua;
+}

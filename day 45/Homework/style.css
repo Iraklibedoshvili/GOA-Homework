@@ -1,0 +1,11 @@
+.container{
+    flex-direction:row;
+    justify-content:center;
+    align-items:normal;
+    flex-wrap:initial;
+    
+}
+.box{
+    flex-grow:inherit;
+    flex-shrink:unset;
+}

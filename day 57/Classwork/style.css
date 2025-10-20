@@ -1,0 +1,10 @@
+header,aside,main,footer{
+    background-color: orange;
+    padding: 20px;
+    text-align: center;
+}
+
+.Container{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}

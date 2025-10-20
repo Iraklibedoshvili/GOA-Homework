@@ -1,0 +1,19 @@
+h1{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    flex-wrap: inherit;
+    justify-content: right;
+    border: 26px solid red;
+    height: 54px;
+    z-index: 3;
+}
+p{
+    display: flex;
+    background-color: rgb(13, 240, 36);
+    color: rgb(187, 12, 222);
+    justify-content: baseline;
+    align-items: normal;
+    position: sticky;
+    z-index: 4;
+}

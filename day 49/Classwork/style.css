@@ -1,0 +1,9 @@
+.container{
+    background-color: red;
+    background-image: url(image.jpg);
+    background-position: center;
+    background-size: 40px,60px;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    height: 200vh;
+}

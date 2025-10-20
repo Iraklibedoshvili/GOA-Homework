@@ -1,0 +1,16 @@
+header{
+    color:red;
+    background-color: aqua;
+    text-align: end;
+
+}
+p {
+    color:rgb(49, 112, 62);
+    background-color: rgb(209, 238, 103);
+    text-align: left;
+}
+button {
+    color:rgb(206, 34, 229);
+    background-color: rgb(1, 234, 255);
+    text-align: center;
+}

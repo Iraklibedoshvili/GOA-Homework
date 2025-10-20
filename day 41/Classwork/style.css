@@ -1,0 +1,8 @@
+#ordered{
+    list-style-position: outside;
+    list-style-type: circle;
+    list-style-image: url("https://www.shutterstock.com/image-vector/green-check-mark-icon-tick-260nw-2044996973.jpg");
+}
+#unordered{
+    list-style:circle outside url("https://www.shutterstock.com/image-vector/green-check-mark-icon-tick-260nw-2044996973.jpg")
+}
