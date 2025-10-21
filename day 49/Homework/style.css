@@ -1,0 +1,28 @@
+.container1,.container2,.container3{
+    text-align: center;
+    background-color: rgb(203, 23, 23);
+    background-position: center;
+    background-size: 10px,10px;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    height: 10vh;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    flex-direction: column;
+
+}
+.container4,.container5,.container6{
+    text-align: center;
+    background-color: rgb(203, 23, 23);
+    background-position: center;
+    background-size: 10px,10px;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    height: 10vh;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    flex-direction: row;
+
+}
