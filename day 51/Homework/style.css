@@ -1,0 +1,30 @@
+#Container1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}
+#Container1:hover{
+        transform: scale(1.1),;
+        transform: translateY(-10px)
+}
+#Container2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+#Container2:hover{
+        transform: scale(1.1),;
+        transform: translateY(-10px)
+}
+#Container3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
+#Container3:hover{
+        transform: scale(1.1),;
+        transform: translateY(-10px)
+}
