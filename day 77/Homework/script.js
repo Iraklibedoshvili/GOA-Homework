@@ -1,1 +1,0 @@
-//addEventListener aris funqcia romlitac elements vumatebt movlenas
